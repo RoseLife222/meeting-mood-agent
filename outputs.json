@@ -1,0 +1,32 @@
+[
+  {
+    "mood": "Frustrated",
+    "type": "Status Update",
+    "action": "Schedule a 15-min sync-up to realign priorities and update the documentation."
+  },
+  {
+    "mood": "Positive",
+    "type": "Brainstorming",
+    "action": "Document new ideas and assign exploratory tasks."
+  },
+  {
+    "mood": "Frustrated",
+    "type": "Conflict Resolution",
+    "action": "Send summary email and ask for feedback."
+  },
+  {
+    "mood": "Neutral",
+    "type": "Planning",
+    "action": "Send summary email and ask for feedback."
+  },
+  {
+    "mood": "Neutral",
+    "type": "Status Update",
+    "action": "Send summary email and ask for feedback."
+  },
+  {
+    "mood": "Neutral",
+    "type": "Conflict Resolution",
+    "action": "Send summary email and ask for feedback."
+  }
+]
